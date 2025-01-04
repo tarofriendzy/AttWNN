@@ -1,4 +1,4 @@
-# Random Walk Graph Neural Networks
+# AttWNN: A Binary Code Similarity Detection Method Based on Attention Walk Graph Neural Network
 
 This repository is the official implementation of [AttWNN: A Binary Code Similarity Detection Method Based on Attention Walk Graph Neural Network]. 
 
